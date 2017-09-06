@@ -1,0 +1,6 @@
+############### npm mysql #################
+#you have to make new directory for mysql
+#install
+npm install mysql
+#package.json
+npm install mysql
